@@ -1,0 +1,1 @@
+{"version":3,"file":"assets/styles/styles.css","mappings":";;;AAAA;EACI;EACA;EAAA;EAAA;AACJ;AAHA;EAIQ;EACA;AAER","sources":["webpack://my-webpack-project/./src/assets/less/style.less"],"sourcesContent":["body{\n    padding: 20px;\n    display: flex;\n    h1{\n        color: red;\n        font-size: 50px;\n    }\n}"],"names":[],"sourceRoot":""}
